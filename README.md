@@ -5,7 +5,6 @@
 
 ### :rocket: Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=MySQL&logoColor=white"/>  
-<img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white"/>
 
 ### :bulb: Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangjun205)](https://solved.ac/kangjun205/)  
