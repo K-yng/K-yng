@@ -1,7 +1,7 @@
 ## ***KyungJun Kang***
 
 ### 🔭 I’m currently doing ...
-- I’m interested in **AI agents** and actively exploring services based on them.
+- I’m interested in **AI agent** and actively exploring services based on them.
 
 ### :rocket: Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=MySQL&logoColor=white"/>  
